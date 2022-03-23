@@ -25,9 +25,14 @@ elasticsearch cluster then we stand risk of loosing some data.
 - reset password 
   - docker exec -it es01 /bin/bash
      bin/elasticsearch-reset-password -u elastic
-  - password: 9qgikQtgo0w6WN2N2K**
+  - password: F0=HQFdS=kOx3Y0nilFT
     "cluster_name" : "docker-cluster",
     "cluster_uuid" : "evULS7ofQ4aR0fC0hBovKw",
+
+- chown -R elasticsearch:elasticsearch for the mounted directory if needed
+- create user elasticsearch
+- sysctl -w vm.max_map_count=262144
+- If you want to set this permanently, you need to edit /etc/sysctl.conf and set vm.max_map_count to 262144.
 
 curl -k -u  elastic http://localhost:9200
 

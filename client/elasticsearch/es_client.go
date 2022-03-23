@@ -31,10 +31,10 @@ func Init() {
 	log := logger.GetLogger()
 	c, err := elastic.NewClient(
 		elastic.SetHttpClient(client),
-		elastic.SetURL("https://localhost:9200"),
+		elastic.SetURL("https://9.30.161.130:9200"),
 		elastic.SetSniff(false),
 		elastic.SetHealthcheckInterval(10*time.Second),
-		elastic.SetBasicAuth("elastic", "9qgikQtgo0w6WN2N2K**"),
+		elastic.SetBasicAuth("elastic", "F0=HQFdS=kOx3Y0nilFT"),
 		elastic.SetErrorLog(log),
 		elastic.SetInfoLog(log),
 		// elastic.SetHeaders(http.Header{
