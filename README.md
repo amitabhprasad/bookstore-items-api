@@ -39,3 +39,22 @@ curl -k -u  elastic http://localhost:9200
 - shards 
   - number of replicas of the shards are normally placed in different nodes
   - number of shards and the replicas
+
+Elasticsearch vs RDBMS
+- Index == database
+## Create index in ES
+- creating index requires number of shards and replicas to be configured 
+- shards is where data lives 
+
+
+export es_host=https://elastic-search-elastic-search.apps.cp4mcm-1.cp.fyre.ibm.com/
+export es_password=Jm5580i4g7vxih06pK4iFQ5s
+
+
+export es_host=https://9.30.161.130:9200
+export es_password=F0=HQFdS=kOx3Y0nilFT
+
+export es_host=https://elasticsearch-elastic-search.apps.cam-bvt-pipeline3.cp.fyre.ibm.com
+export es_password=ZM9khCvf6VC3c2Q215eX646J
+
+

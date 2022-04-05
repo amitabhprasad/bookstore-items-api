@@ -3,8 +3,8 @@ module github.com/amitabhprasad/bookstore-app/bookstore-items-api
 go 1.17
 
 require (
-	github.com/amitabhprasad/bookstore-oauth2-go v0.0.0-20220317100940-c349cae49e3b
-	github.com/amitabhprasad/bookstore-util-go v0.0.0-20220321005323-784862b0857c
+	github.com/amitabhprasad/bookstore-oauth2-go v0.0.0-20220325074728-95412a9d78b7
+	github.com/amitabhprasad/bookstore-util-go v0.0.0-20220326114754-91a3560ea202
 	github.com/gorilla/mux v1.8.0
 	github.com/olivere/elastic v6.2.37+incompatible
 )

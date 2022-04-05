@@ -1,10 +1,9 @@
-github.com/amitabhprasad/bookstore-oauth2-go v0.0.0-20220317100940-c349cae49e3b h1:ks+pk9nMWcCYc81huEc7OAMiMEwYdMFB+ZcBeBj3NMA=
-github.com/amitabhprasad/bookstore-oauth2-go v0.0.0-20220317100940-c349cae49e3b/go.mod h1:jIRDPexMLNmdSGDTmWBUlgLsOg8TvByoYcImJSKbfWM=
-github.com/amitabhprasad/bookstore-util-go v0.0.0-20220310133148-69e3b3fb0150/go.mod h1:z5mgf4oixu11JMzqQNxMeTF5b+wgzdBHU8AYtvQfKyo=
-github.com/amitabhprasad/bookstore-util-go v0.0.0-20220320114215-7be087d1987e h1:aW2FK/WgWLGsbWby45eFhk/CzgZsvTtxXQl/w6mSNYA=
-github.com/amitabhprasad/bookstore-util-go v0.0.0-20220320114215-7be087d1987e/go.mod h1:2F8dVA8gTQvtHLkHnOc1r3tARlZStUS0HBJjSm2csLs=
-github.com/amitabhprasad/bookstore-util-go v0.0.0-20220321005323-784862b0857c h1:FVXjBV5z32NJjT4+R0oDaRuZG3h/iyXk1BbayXiP+C0=
-github.com/amitabhprasad/bookstore-util-go v0.0.0-20220321005323-784862b0857c/go.mod h1:2F8dVA8gTQvtHLkHnOc1r3tARlZStUS0HBJjSm2csLs=
+github.com/amitabhprasad/bookstore-oauth2-go v0.0.0-20220325074728-95412a9d78b7 h1:KnT9fLraT+d8Txd2FJNlOMRa6tMs8qLFjVPk0AEDIwE=
+github.com/amitabhprasad/bookstore-oauth2-go v0.0.0-20220325074728-95412a9d78b7/go.mod h1:ws2UP0VKqUG4CTjq6Nf5ARNhhxQvYqq2NL25bymEwqA=
+github.com/amitabhprasad/bookstore-util-go v0.0.0-20220322014149-314b577e5c0a h1:LxcByvEUsPsu7V54rEH/S+jzgFUjDOqV+WpnBnhNPFA=
+github.com/amitabhprasad/bookstore-util-go v0.0.0-20220322014149-314b577e5c0a/go.mod h1:2F8dVA8gTQvtHLkHnOc1r3tARlZStUS0HBJjSm2csLs=
+github.com/amitabhprasad/bookstore-util-go v0.0.0-20220326114754-91a3560ea202 h1:iKjzQ4BUwQWN+n+NdFzqz/Exg3rvfDPvRos1oCuw0bg=
+github.com/amitabhprasad/bookstore-util-go v0.0.0-20220326114754-91a3560ea202/go.mod h1:2F8dVA8gTQvtHLkHnOc1r3tARlZStUS0HBJjSm2csLs=
 github.com/benbjohnson/clock v1.1.0 h1:Q92kusRqC1XV2MjkWETPvjJVqKetz1OzxZB7mHJLju8=
 github.com/benbjohnson/clock v1.1.0/go.mod h1:J11/hYXuz8f4ySSvYwY0FKfm+ezbsZBKZxNJlLklBHA=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
