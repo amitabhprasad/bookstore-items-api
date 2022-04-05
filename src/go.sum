@@ -1,6 +1,5 @@
 github.com/amitabhprasad/bookstore-oauth2-go v0.0.0-20220325074728-95412a9d78b7 h1:KnT9fLraT+d8Txd2FJNlOMRa6tMs8qLFjVPk0AEDIwE=
 github.com/amitabhprasad/bookstore-oauth2-go v0.0.0-20220325074728-95412a9d78b7/go.mod h1:ws2UP0VKqUG4CTjq6Nf5ARNhhxQvYqq2NL25bymEwqA=
-github.com/amitabhprasad/bookstore-util-go v0.0.0-20220322014149-314b577e5c0a h1:LxcByvEUsPsu7V54rEH/S+jzgFUjDOqV+WpnBnhNPFA=
 github.com/amitabhprasad/bookstore-util-go v0.0.0-20220322014149-314b577e5c0a/go.mod h1:2F8dVA8gTQvtHLkHnOc1r3tARlZStUS0HBJjSm2csLs=
 github.com/amitabhprasad/bookstore-util-go v0.0.0-20220326114754-91a3560ea202 h1:iKjzQ4BUwQWN+n+NdFzqz/Exg3rvfDPvRos1oCuw0bg=
 github.com/amitabhprasad/bookstore-util-go v0.0.0-20220326114754-91a3560ea202/go.mod h1:2F8dVA8gTQvtHLkHnOc1r3tARlZStUS0HBJjSm2csLs=

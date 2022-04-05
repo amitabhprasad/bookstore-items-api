@@ -58,3 +58,6 @@ export es_host=https://elasticsearch-elastic-search.apps.cam-bvt-pipeline3.cp.fy
 export es_password=ZM9khCvf6VC3c2Q215eX646J
 
 
+docker run -i -t -e es_host=https://9.30.161.130:9200  -e es_password=F0=HQFdS=kOx3Y0nilFT -p 8084:8084 bookstore-items
+
+
