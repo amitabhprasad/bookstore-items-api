@@ -15,6 +15,8 @@ router (gorilla/mux) --> Items Controller --> Item service --> Item (domain)
 elasticsearch cluster then we stand risk of loosing some data.
 - Ideal configuraiton is to have DB (SQL or No-SQL) as persistence and use elastic search as search engine for faster search.
 
+## OAuth
+- Developed using domain driven design
 
 --- Install ES using docker ---
 - https://www.elastic.co/guide/en/elasticsearch/reference/current/docker.html
@@ -58,6 +60,6 @@ export es_host=https://elasticsearch-elastic-search.apps.cam-bvt-pipeline3.cp.fy
 export es_password=ZM9khCvf6VC3c2Q215eX646J
 
 
-docker run -i -t -e es_host=https://9.30.161.130:9200  -e es_password=F0=HQFdS=kOx3Y0nilFT -p 8084:8084 bookstore-items
+docker run -i -t -d -e es_host=https://9.30.161.130:9200  -e es_password=F0=HQFdS=kOx3Y0nilFT -p 8084:8084 bookstore-items
 
 

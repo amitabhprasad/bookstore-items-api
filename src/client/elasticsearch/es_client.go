@@ -37,7 +37,7 @@ func Init() {
 	}
 	client := &http.Client{Transport: transCfg}
 	log := logger.GetLogger()
-	logger.Info("Connecting to url " + es_host + "using password " + es_password)
+	logger.Info("Connecting to url " + es_host + " using password " + es_password)
 	c, err := elastic.NewClient(
 		elastic.SetHttpClient(client),
 		elastic.SetURL(es_host),
